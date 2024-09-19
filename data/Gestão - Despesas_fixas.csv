@@ -1,0 +1,16 @@
+Data,Tipo,Descrição,Parcela,Categoria,Valor_Real,Valor_Final,Valor a Pagar,Forma de Pagamento,Saldo,Observações,is_pago
+01/09/2024,Despesa Fixas,Cartão BB - Parcelamento,1/7,Negociacao Cartão,"R$ 667,00","R$ 667,00","R$ 667,00",Pix,null,Parcelamento do valor total da fatura,TRUE
+01/09/2024,Despesa Fixas,LUZ EQUATORIAL,null,Conta fixa,"R$ 110,08","R$ 110,08","R$ 110,08",Boleto,null,Iluminação AP,TRUE
+01/09/2024,Despesa Fixas,TVN SERVICOS DE COBRANCA LTDA,null,Conta fixa,"R$ 89,90","R$ 92,13","R$ 92,13",Boleto,null,Internet,TRUE
+01/10/2024,Despesa Fixas,Cartão BB - Parcelamento,2/7,Negociacao Cartão,"R$ 667,00","R$ 667,00","R$ 0,00",Pix,null,Parcelamento do valor total da fatura,FALSE
+01/10/2024,Despesa Fixas,emprestimo BB,null,emprestimo,"R$ 650,00","R$ 0,00","R$ 0,00",PIX,null,Emprestimo do banco do brasil,FALSE
+01/10/2024,Despesa Fixas,LUZ EQUATORIAL,null,Conta fixa,"R$ 130,00","R$ 0,00","R$ 0,00",Boleto,null,Iluminação AP,FALSE
+01/10/2024,Despesa Fixas,TVN SERVICOS DE COBRANCA LTDA,null,Conta fixa,"R$ 89,90","R$ 89,90","R$ 89,90",Boleto,null,Internet,TRUE
+01/11/2024,Despesa Fixas,Cartão BB - Parcelamento,3/7,Negociacao Cartão,"R$ 667,00","R$ 0,00","R$ 0,00",PIX,null,Parcelamento do valor total da fatura,FALSE
+01/11/2024,Despesa Fixas,emprestimo BB,null,emprestimo,"R$ 650,00","R$ 0,00","R$ 0,00",PIX,null,Emprestimo do banco do brasil,FALSE
+01/11/2024,Despesa Fixas,LUZ EQUATORIAL,null,Conta fixa,"R$ 130,00","R$ 0,00","R$ 0,00",Boleto,null,Iluminação AP,FALSE
+01/11/2024,Despesa Fixas,TVN SERVICOS DE COBRANCA LTDA,null,Conta fixa,"R$ 89,90","R$ 0,00","R$ 0,00",Boleto,null,Internet,FALSE
+01/12/2024,Despesa Fixas,Cartão BB - Parcelamento,4/7,Negociacao Cartão,"R$ 667,00","R$ 0,00","R$ 0,00",PIX,null,Parcelamento do valor total da fatura,FALSE
+01/12/2024,Despesa Fixas,emprestimo BB,null,emprestimo,"R$ 650,00","R$ 0,00","R$ 0,00",PIX,null,Emprestimo do banco do brasil,FALSE
+01/12/2024,Despesa Fixas,LUZ EQUATORIAL,null,Conta fixa,"R$ 130,00","R$ 0,00","R$ 0,00",Boleto,null,Iluminação AP,FALSE
+01/12/2024,Despesa Fixas,TVN SERVICOS DE COBRANCA LTDA,null,Conta fixa,"R$ 89,90","R$ 0,00","R$ 0,00",Boleto,null,Internet,FALSE
