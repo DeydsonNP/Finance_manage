@@ -1,0 +1,10 @@
+data,tipo,descricao,categoria,valor_real,valor_final,valor_a_pagar,forma_pagamento,obs,is_pago
+02/09/2024,DESPESA_FIXA,"Compra no debito: ""No estabelecimento KAROLICIAS SAO LUIS BRA""",APP1,,13.0,,APP,INDEFINIDO,TRUE
+02/09/2024,DESPESA_VARIAVEL,"Compra no debito: ""No estabelecimento 55173925MaryRose SAO LUIS BRA""",APP2,,16.0,,APP,INDEFINIDO,TRUE
+02/09/2024,RECEITA_FIXA,"Compra no debito: ""No estabelecimento FARMACIA DO BAIRRO SAO LUIS BRA""",APP3,,40.0,,APP,INDEFINIDO,TRUE
+02/11/2024,DESPESA_FIXA,"Compra no debito: ""No estabelecimento KAROLICIAS SAO LUIS BRA""",APP1,,13.0,,APP,INDEFINIDO,TRUE
+02/11/2024,DESPESA_VARIAVEL,"Compra no debito: ""No estabelecimento 55173925MaryRose SAO LUIS BRA""",APP2,,16.0,,APP,INDEFINIDO,TRUE
+02/11/2024,RECEITA_FIXA,"Compra no debito: ""No estabelecimento FARMACIA DO BAIRRO SAO LUIS BRA""",APP3,,40.0,,APP,INDEFINIDO,TRUE
+02/10/2024,DESPESA_FIXA,"Compra no debito: ""No estabelecimento KAROLICIAS SAO LUIS BRA""",APP1,,13.0,,APP,INDEFINIDO,TRUE
+02/10/2024,DESPESA_VARIAVEL,"Compra no debito: ""No estabelecimento 55173925MaryRose SAO LUIS BRA""",APP2,,16.0,,APP,INDEFINIDO,TRUE
+02/10/2024,RECEITA_FIXA,"Compra no debito: ""No estabelecimento FARMACIA DO BAIRRO SAO LUIS BRA""",APP3,,40.0,,APP,INDEFINIDO,TRUEs
