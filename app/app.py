@@ -1,6 +1,7 @@
 import streamlit as st
 import logging
 from charts import consultar_tabela, criar_grafico_despesas_receita, criar_grafico_categoria, calcular_metricas
+from manage_finance_ia import obter_sugestao_financeira
 
 # Configurar o logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -31,6 +32,7 @@ def main():
     if not df.empty:
         st.write("Dados da tabela 'finanças':")
         st.dataframe(df)
+        
     else:
         st.warning("Nenhum dado disponível para a data selecionada.")
         logging.warning(f"Nenhum dado disponível para a data: {data_filtro}")
@@ -56,6 +58,8 @@ def main():
         st.subheader('Despesas por Categoria')
         fig_categoria = criar_grafico_categoria(df)
         st.plotly_chart(fig_categoria)
+
+        obter_sugestao_financeira(df_inicial)
 
     except Exception as e:
         st.error("Ocorreu um erro ao exibir os gráficos.")
