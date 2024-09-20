@@ -1,0 +1,67 @@
+Data,Tipo,Descrição,Categoria,Valor_Real,Valor_Final,Valor_a_pagar,Forma_de_Pagamento,Observacoes,is_pago
+02/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento KAROLICIAS SAO LUIS BRA""",APP,,13.0,,APP,INDEFINIDO,true
+12/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento 55173925MaryRose SAO LUIS BRA""",APP,,16.0,,APP,INDEFINIDO,true
+14/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento FARMACIA DO BAIRRO SAO LUIS BRA""",APP,,40.0,,APP,INDEFINIDO,true
+01/10/2024,Despesa Variavel,Jantar,Alimentação,,104.0,,DEBITO,CHURRASCARIA,
+06/09/2024,DESPESA VARIAVEIS,"Pix enviado: ""Cp :60701190-TUNA PAGAMENTOS""",APP,,66.0,,APP,INDEFINIDO,true
+12/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento uber *UBER *TRIP Sao Paulo BRA""",APP,,10.29,,APP,INDEFINIDO,true
+16/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento M BROTHERS CO LTDA SAO LUIS BRA""",APP,,2.29,,APP,INDEFINIDO,true
+16/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento M BROTHERS CO LTDA SAO LUIS BRA""",APP,,5.99,,APP,INDEFINIDO,true
+01/09/2024,Despesa Fixas,LUZ EQUATORIAL,Conta fixa,110.08,110.08,110.08,Boleto,ILUMINAÇÃO AP,true
+01/09/2024,Despesa Fixas,TVN SERVICOS DE COBRANCA LTDA,Conta fixa,89.9,89.9,92.13,Boleto,INTERNET,true
+17/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento uber *UBER *TRIP Sao Paulo BRA""",APP,,15.33,,APP,INDEFINIDO,true
+17/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento Uber UBER *TRIP HELP.U SP BRA""",APP,,14.77,,APP,INDEFINIDO,true
+01/10/2024,Despesa Fixas,emprestimo BB,emprestimo,650.0,650.0,0.0,PIX,EMPRESTIMO DO BANCO DO BRASIL,false
+01/12/2024,Despesa Fixas,Cartão BB - Parcelamento,Negociacao Cartão,667.0,667.0,0.0,PIX,PARCELAMENTO DO VALOR TOTAL DA FATURA,false
+08/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento MATEUS SUPERMERCADOS 1 SAO LUIS""",APP,,12.52,,APP,INDEFINIDO,true
+12/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento KAROLICIAS SAO LUIS BRA""",APP,,16.5,,APP,INDEFINIDO,true
+14/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento uber *UBER *TRIP Sao Paulo BRA""",APP,,5.34,,APP,INDEFINIDO,true
+15/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento 54550290Marise SAO LUIS BRA""",APP,,8.89,,APP,INDEFINIDO,true
+16/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento MERCADINHO MIRITIUA SAO JOSE DE""",APP,,22.7,,APP,INDEFINIDO,true
+01/10/2024,Despesa Fixas,Cartão BB - Parcelamento,Negociacao Cartão,667.0,667.0,0.0,Pix,PARCELAMENTO DO VALOR TOTAL DA FATURA,false
+01/12/2024,Despesa Fixas,LUZ EQUATORIAL,Conta fixa,130.0,130.0,0.0,Boleto,ILUMINAÇÃO AP,false
+01/11/2024,Despesa Fixas,LUZ EQUATORIAL,Conta fixa,130.0,130.0,0.0,Boleto,ILUMINAÇÃO AP,false
+01/10/2024,Despesa Fixas,TVN SERVICOS DE COBRANCA LTDA,Conta fixa,89.9,89.9,89.9,Boleto,INTERNET,true
+01/11/2024,Despesa Fixas,emprestimo BB,emprestimo,650.0,650.0,0.0,PIX,EMPRESTIMO DO BANCO DO BRASIL,false
+06/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento Uber UBER * PENDING SP BRA""",APP,,19.9,,APP,INDEFINIDO,true
+06/09/2024,DESPESA VARIAVEIS,"Pix enviado: ""Cp :00000000-LAYANNA DOS SANTOS SOARES""",APP,,814.0,,APP,INDEFINIDO,true
+08/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento MATEUS SUPERMERCADOS 1 SAO LUIS""",APP,,45.34,,APP,INDEFINIDO,true
+09/09/2024,DESPESA VARIAVEIS,"Pix enviado: ""Cp :03311443-M4 PRODUTOS E SERVICOS SA""",APP,,17.0,,APP,INDEFINIDO,true
+10/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento MERCADINHO MIRITIUA SAO JOSE DE""",APP,,15.75,,APP,INDEFINIDO,true
+14/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento BARBEARIA EL-SHADAY SAO JOSE DE""",APP,,30.0,,APP,INDEFINIDO,true
+14/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento FARMACIA DO BAIRRO SAO LUIS BRA""",APP,,22.0,,APP,INDEFINIDO,true
+16/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento MATEUS SUPERMERCADOS 7 SAO LUIS""",APP,,1.94,,APP,INDEFINIDO,true
+16/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento MATEUS SUPERMERCADOS 7 SAO LUIS""",APP,,31.62,,APP,INDEFINIDO,true
+01/12/2024,RECEITA,SALARIO,salario,,6000.0,,,,
+01/12/2024,Despesa Fixas,TVN SERVICOS DE COBRANCA LTDA,Conta fixa,89.9,89.9,0.0,Boleto,INTERNET,false
+02/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento M BROTHERS CO LTDA SAO LUIS BRA""",APP,,5.48,,APP,INDEFINIDO,true
+12/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento 54550290Marise SAO LUIS BRA""",APP,,3.89,,APP,INDEFINIDO,true
+12/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento M BROTHERS CO LTDA SAO LUIS BRA""",APP,,1.99,,APP,INDEFINIDO,true
+14/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento ALMEIDA & MELO LTDA SAO LUIS BR""",APP,,16.0,,APP,INDEFINIDO,true
+16/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento uber *UBER *TRIP Sao Paulo BRA""",APP,,9.09,,APP,INDEFINIDO,true
+17/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento O TCHE SLZ SAO LUIS BRA""",APP,,104.28,,APP,INDEFINIDO,true
+01/11/2024,RECEITA,FREELA,trabalho_extra,,800.0,,,,
+10/10/2024,RECEITA,FREELA,trabalho_extra,,800.0,,,,
+01/09/2024,Despesa Fixas,Cartão BB - Parcelamento,Negociacao Cartão,667.0,667.0,667.0,Pix,PARCELAMENTO DO VALOR TOTAL DA FATURA,true
+08/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento CAFA. DO PONTO SHOPPIN SAO LUIS""",APP,,44.5,,APP,INDEFINIDO,true
+08/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento SAL E BRASA ILHA SAO LUIS BRA""",APP,,78.0,,APP,INDEFINIDO,true
+12/09/2024,DESPESA VARIAVEIS,"Pix enviado: ""Cp :18236120-Layanna dos Santos Soares""",APP,,380.0,,APP,INDEFINIDO,true
+12/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento M BROTHERS CO LTDA SAO LUIS BRA""",APP,,5.99,,APP,INDEFINIDO,true
+13/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento uber *UBER *TRIP Sao Paulo BRA""",APP,,16.72,,APP,INDEFINIDO,true
+15/09/2024,DESPESA VARIAVEIS,"Pix enviado: ""Cp :40473435-TUNA PAGAMENTOS LTDA""",APP,,30.0,,APP,INDEFINIDO,true
+16/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento 55173925MaryRose SAO LUIS BRA""",APP,,12.0,,APP,INDEFINIDO,true
+01/10/2024,Despesa Fixas,LUZ EQUATORIAL,Conta fixa,130.0,130.0,0.0,Boleto,ILUMINAÇÃO AP,false
+01/12/2024,RECEITA,FREELA,trabalho_extra,,800.0,,,,
+01/10/2024,RECEITA,SALARIO,salario,,6000.0,,,,
+01/11/2024,RECEITA,SALARIO,salario,,6000.0,,,,
+02/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento POTIGUAR SAO LUIS BRA""",APP,,13.65,,APP,INDEFINIDO,true
+05/09/2024,DESPESA VARIAVEIS,"Pix enviado: ""Cp :00360305-THYAGO COSTA DE CARVALHO""",APP,,20.0,,APP,INDEFINIDO,true
+06/09/2024,DESPESA VARIAVEIS,Pagamento,APP,,92.13,,APP,INDEFINIDO,true
+09/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento M BROTHERS CO LTDA SAO LUIS BRA""",APP,,2.29,,APP,INDEFINIDO,true
+12/09/2024,DESPESA VARIAVEIS,Pagamento,APP,,144.74,,APP,INDEFINIDO,true
+12/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento SR DO ESPETO SAO LUIS BRA""",APP,,16.0,,APP,INDEFINIDO,true
+12/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento uber *UBER *TRIP Sao Paulo BRA""",APP,,12.65,,APP,INDEFINIDO,true
+13/09/2024,DESPESA VARIAVEIS,"Compra no debito: ""No estabelecimento uber *UBER *TRIP Sao Paulo BRA""",APP,,10.8,,APP,INDEFINIDO,true
+01/11/2024,Despesa Fixas,Cartão BB - Parcelamento,Negociacao Cartão,667.0,667.0,0.0,PIX,PARCELAMENTO DO VALOR TOTAL DA FATURA,false
+01/12/2024,Despesa Fixas,emprestimo BB,emprestimo,650.0,650.0,0.0,PIX,EMPRESTIMO DO BANCO DO BRASIL,false
+01/11/2024,Despesa Fixas,TVN SERVICOS DE COBRANCA LTDA,Conta fixa,89.9,89.9,0.0,Boleto,INTERNET,false
